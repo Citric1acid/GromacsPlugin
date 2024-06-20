@@ -8,7 +8,8 @@ constant-electric-field-z = Ez
 
 to your .mdp file, where Ex, Ey, Ez are the electric fields to add in that dimension in V/nm.
 
-This plugin needs to be added to gromacs source file folder before compiling. Run INSTALL to include this into the source code, and then compile gromacs.
+Installation:
+Download "main" branch for GROMACS 2023+, and "for_lower_versions" branch for GROMACS 2022.x-. Add this plugin to GROMACS source file folder before compiling. Run INSTALL to include this into the source code, and then compile gromacs.
 
 Thanks for your use!
 
